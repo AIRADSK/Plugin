@@ -1,4 +1,4 @@
-module plugin
+module github.com/AIRADSK/Plugin
 
 go 1.20
 
