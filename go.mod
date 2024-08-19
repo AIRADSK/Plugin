@@ -11,6 +11,8 @@ require (
 	github.com/wdvxdr1123/ZeroBot v1.7.5-0.20240505070304-562ffeb33dcd
 )
 
+require github.com/mozillazg/go-pinyin v0.19.0 // indirect
+
 require (
 	github.com/FloatTech/gg v1.1.2 // indirect
 	github.com/FloatTech/imgfactory v0.2.2-0.20230315152233-49741fc994f9 // indirect
@@ -29,6 +31,7 @@ require (
 	github.com/fumiama/terasu v0.0.0-20240502091919-c887e26289a8 // indirect
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
+	github.com/guohuiyuan/go-fyzhq v0.0.0-20220807135412-25c16c843e5a
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 // indirect
