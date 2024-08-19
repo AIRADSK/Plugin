@@ -11,7 +11,10 @@ require (
 	github.com/wdvxdr1123/ZeroBot v1.7.5-0.20240505070304-562ffeb33dcd
 )
 
-require github.com/mozillazg/go-pinyin v0.19.0 // indirect
+require (
+	github.com/fumiama/jieba v0.0.0-20221203025406-36c17a10b565 // indirect
+	github.com/mozillazg/go-pinyin v0.19.0 // indirect
+)
 
 require (
 	github.com/FloatTech/gg v1.1.2 // indirect
